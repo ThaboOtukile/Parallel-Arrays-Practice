@@ -1,0 +1,15 @@
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/bin/Debug/net10.0/Parrallel Arrays Prcatice
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/bin/Debug/net10.0/Parrallel Arrays Prcatice.deps.json
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/bin/Debug/net10.0/Parrallel Arrays Prcatice.runtimeconfig.json
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/bin/Debug/net10.0/Parrallel Arrays Prcatice.dll
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/bin/Debug/net10.0/Parrallel Arrays Prcatice.pdb
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.AssemblyInfoInputs.cache
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.AssemblyInfo.cs
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.csproj.CoreCompileInputs.cache
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.sourcelink.json
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.dll
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/refint/Parrallel Arrays Prcatice.dll
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.pdb
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/Parrallel Arrays Prcatice.genruntimeconfig.cache
+/Users/ThaboOtukile/Desktop/CSIS1624_C#/Parrallel Arrays Prcatice/Parrallel Arrays Prcatice/obj/Debug/net10.0/ref/Parrallel Arrays Prcatice.dll

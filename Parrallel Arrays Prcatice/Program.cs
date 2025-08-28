@@ -65,8 +65,9 @@ namespace MyNamespace
                     youngestName = names[i];
                     youngestAge = ages[i];
                 }
-                averageSalary = averageSalary / numofEployees;
+                
             }
+            averageSalary = blockSalary / numofEployees;
             Console.WriteLine("\n----Additional Information----");
             Console.WriteLine($"Net Salary Payment: R{blockSalary}");
             Console.WriteLine($"Average Salary PayOut: R{averageSalary} ");
